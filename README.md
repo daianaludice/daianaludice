@@ -56,7 +56,7 @@
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kookmin-sw&repo=2018-cap1-9&theme=buefy)](https://github.com/kookmin-sw/2018-cap1-9)
 
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daianaludice&repo=Parallax_Scrolling_WEB&theme=solarized-light)](https://github.com/daianaludice/Parallax_Scrolling_WEB)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daianaludice&repo=Parallax_Scrolling_WEB&theme=solarized-light)](https://daianaludice.github.io/Parallax_Scrolling_WEB/)
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weegwangjin&repo=wink_pyeongchang&theme=swift)](https://github.com/weegwangjin/wink_pyeongchang)
  
