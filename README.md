@@ -41,7 +41,7 @@
  
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daianaludice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daianaludice&layout=compact)](https://github.com/daianaludice)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daianaludice&show_icons=true&theme=dracula&rank_icon=github)
 
    <br/>
@@ -53,12 +53,12 @@
  <br/>
  <br/>
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kookmin-sw&repo=2018-cap1-9&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kookmin-sw&repo=2018-cap1-9&theme=buefy)](https://github.com/kookmin-sw/2018-cap1-9)
 
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daianaludice&repo=Parallax_Scrolling_WEB&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daianaludice&repo=Parallax_Scrolling_WEB&theme=solarized-light)](https://github.com/daianaludice/Parallax_Scrolling_WEB)
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weegwangjin&repo=wink_pyeongchang&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weegwangjin&repo=wink_pyeongchang&theme=swift)](https://github.com/weegwangjin/wink_pyeongchang)
  
  <br/>
  <br/>
@@ -69,10 +69,10 @@
  <br/>
  <br/>
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daianaludice&repo=Algorithm&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daianaludice&repo=Algorithm&theme=ayu-mirage)](https://github.com/daianaludice/Algorithm)
 
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daianaludice&repo=AWS_Server&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daianaludice&repo=AWS_Server&theme=slateorange)](https://github.com/daianaludice/AWS_Server)
  
  <br/>
  <br/>
