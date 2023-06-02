@@ -1,7 +1,8 @@
 <div align='center'>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Soyoung's%20github!&animation=blink&fontSize=90"/>
 
- ####  :wave: Welcome my github profile !
+ ##  :wave: Welcome my github profile !
+ #### :star2: <a href="https://daianaludice.github.io/">이소영 Portfolio Site</a>  :pray: 공사중
 
 <br/>
  <br/>
@@ -36,7 +37,7 @@
    <br/>
    <br/>
  
-#### :pencil2: GitHub log
+#### :scroll: GitHub log
  
   <br/>
   
@@ -47,15 +48,35 @@
    <br/>
  
 #### :computer: Project 
- 
-  <br/>
- :arrow_forward: VISION THROUGH
+
  
  <br/>
  <br/>
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kookmin-sw&repo=2018-cap1-9&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kookmin-sw&repo=2018-cap1-9&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daianaludice&repo=Parallax_Scrolling_WEB&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weegwangjin&repo=wink_pyeongchang&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ <br/>
+ <br/>
+ <br/>
+ 
+ #### :pencil2: Study
+ 
+ <br/>
+ <br/>
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daianaludice&repo=Algorithm&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daianaludice&repo=AWS_Server&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ <br/>
+ <br/>
+
 </div>
 
 
