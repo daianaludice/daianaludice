@@ -33,12 +33,29 @@
  
    <br/>
    <br/>
+   <br/>
+   <br/>
  
-#### :pencil2: Study log
+#### :pencil2: GitHub log
  
   <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daianaludice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=daianaludice&color=dark)](https://velog.io/@daianaludice)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daianaludice&show_icons=true&theme=dracula&rank_icon=github)
+
+   <br/>
+   <br/>
+ 
+#### :computer: Project 
+ 
+  <br/>
+ :arrow_forward: VISION THROUGH
+ 
+ <br/>
+ <br/>
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kookmin-sw&repo=2018-cap1-9&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </div>
+
+
