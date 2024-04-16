@@ -74,7 +74,7 @@
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daianaludice&repo=AWS_Server&theme=slateorange)](https://github.com/daianaludice/AWS_Server)
  
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daianaludice&repo=Web_Server&theme=merko)](https://github.com/daianaludice/Web_Server)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daianaludice&repo=Web_Server&theme=merko)](https://github.com/daianaludice/Web_Study)
  
  
  <br/>
