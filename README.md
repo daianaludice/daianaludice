@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Soyoung's%20github!&animation=blink&fontSize=90"/>
 
  ##  :wave: Welcome my github profile !
- #### :star2: <a href="https://daianaludice.github.io/">이소영 Portfolio Site</a>  :pray: 공사중
+ #### :star2: <a href="https://97soyoung-portfolio.netlify.app/">이소영 Portfolio Site</a>  :pray: 공사중
 
 <br/>
  <br/>
